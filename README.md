@@ -1,2 +1,2 @@
 # cas-demo-application
-CAS Demo Application code
+CAS Demo Application by Cody
